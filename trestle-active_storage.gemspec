@@ -18,5 +18,5 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
 
   s.add_dependency 'rails', '>= 8'
-  s.add_dependency "trestle", '>= 0.10'
+  s.add_dependency "trestle", '>= 0.9'
 end
